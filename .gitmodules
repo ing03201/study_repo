@@ -1,3 +1,6 @@
 [submodule "matter_study"]
 	path = matter_study
 	url = https://github.com/ing03201/matter_study.git
+[submodule "Rust_study"]
+	path = Rust_study
+	url = https://github.com/ing03201/Rust_study.git
