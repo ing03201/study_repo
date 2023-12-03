@@ -4,3 +4,6 @@
 [submodule "Rust_study"]
 	path = Rust_study
 	url = https://github.com/ing03201/Rust_study.git
+[submodule "blog_os_with_rust"]
+	path = blog_os_with_rust
+	url = https://github.com/ing03201/blog_os_with_rust.git
